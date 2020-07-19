@@ -11,7 +11,7 @@
 
 
   <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+    <img alt="Made by Anderson Faro" src="https://img.shields.io/badge/made%20by-Anderson%20Faro-blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
