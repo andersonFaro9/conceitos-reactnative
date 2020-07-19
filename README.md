@@ -10,7 +10,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/desafio-04-conceitos-react-native?color=%2304D361">
 
 
-  <a href="https://www.linkedin.com/in/danielobara/">
+  <a href="https://www.linkedin.com/in/faroanderson/">
     <img alt="Made by Anderson Faro" src="https://img.shields.io/badge/made%20by-Anderson%20Faro-blue">
   </a>
 
